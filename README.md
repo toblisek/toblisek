@@ -5,6 +5,9 @@
 - **Mainframe Bypass Project** — Researching advanced network security and firewall automation utilities.
 
 ### 🛠️ Tech Stack & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
 - **Languages:** C++, Python, Assembly, Bash
 - **Environments:** Linux (Kernel Development), Unix Core, Winchard Environment
 
